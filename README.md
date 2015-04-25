@@ -6,6 +6,7 @@ first edit
 first edit-1
 first edit-3
 
+I want this line
 Demo1 second edit
 Demo1 second edit-2
 Demo1 second edit-3
